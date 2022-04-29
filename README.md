@@ -1,0 +1,3 @@
+# Three-Python-Muskeeters
+*All codes were prepared by 3 muskeeters; Emirhan, Arda and Hamza.
+*I hope our lecture will satisfied to this job...
